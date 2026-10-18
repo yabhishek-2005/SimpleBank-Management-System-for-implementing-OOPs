@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abhishek",
+        "age": 21,
+        "email": "abhishek@gmail.com",
+        "pin": "1234",
+        "acc_no": "L825X@i",
+        "balance": 0
+    },
+    {
+        "name": "Siddhi",
+        "age": 19,
+        "email": "Siddhi@gmail.com",
+        "pin": "1234",
+        "acc_no": "l91Uy$9",
+        "balance": 1500
+    },
+    {
+        "name": "Devendra Yadav",
+        "age": 32,
+        "email": "devendra@gmail.com",
+        "pin": 9876,
+        "accountNo.": "q3l42*F",
+        "balance": 9600
+    }
+]
