@@ -1,3 +1,6 @@
+
+## This is just the raw logic understanding and its improved final
+## version is updated_main.py
 import json
 import random
 import string
